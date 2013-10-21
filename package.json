@@ -1,0 +1,36 @@
+{
+  "name": "binary-support.jsx",
+  "version": "0.1.0",
+  "description": "Binary support checking utility for JSX",
+  "scripts": {
+    "build": "grunt build",
+    "test": "grunt test",
+    "doc": "grunt doc"
+  },
+  "engines" : { "node" : ">=0.8.0" },
+  "keywords": [
+    "jsx",
+    "lib"
+  ],
+  "main": "./lib/binary-support.jsx",
+  "homepage": "https://github.com/shibukawa/binary-support.jsx",
+  "bugs": {
+    "url": "https://github.com/shibukawa/binary-support.jsx/issues"
+  },
+  "directories": {
+    "doc": "./doc",
+    "lib": "./lib",
+    "test": "./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shibukawa/binary-support.jsx.git"
+  },
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.1",
+    "grunt-jsx": ">=0.1.5"
+  },
+  "author": "shibukawa",
+  "license": "MIT"
+}
