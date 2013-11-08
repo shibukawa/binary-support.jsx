@@ -1,6 +1,8 @@
 binary-support.jsx
 ===========================================
 
+[![Build Status](https://travis-ci.org/shibukawa/binary-support.jsx.png)](https://travis-ci.org/shibukawa/binary-support.jsx])
+
 Synopsis
 ---------------
 
